@@ -2,6 +2,10 @@ Rampart
 =======
 A command prompt remake of the classic arcade game.
 
+How to Play
+-----------
+Download rampart.exe and open it.
+
 ![](https://raw.github.com/BenLorantfy/rampart/master/images/title.png)
 
 ![](https://raw.github.com/BenLorantfy/rampart/master/images/controls.png)
