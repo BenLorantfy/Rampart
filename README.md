@@ -1,6 +1,6 @@
 Rampart
 =======
-A command prompt remake of the classic arcade game.
+A command prompt remake of the classic arcade game in c++
 
 How to Play
 -----------
