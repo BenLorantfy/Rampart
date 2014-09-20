@@ -2,7 +2,10 @@ Rampart
 =======
 A command prompt remake of the classic arcade game.
 ![](https://raw.github.com/BenLorantfy/rampart/master/images/title.png)
+
 ![](https://raw.github.com/BenLorantfy/rampart/master/images/controls.png)
+
+![](https://raw.github.com/BenLorantfy/rampart/master/images/chaotic.png)
 
 Select your base
 ----------------
@@ -20,5 +23,4 @@ Repair
 ------
 ![](https://raw.github.com/BenLorantfy/rampart/master/images/repairwalls.png)
 
-
-![](https://raw.github.com/BenLorantfy/rampart/master/images/chaotic.png)
+If you can't repair your walls, you lose.
