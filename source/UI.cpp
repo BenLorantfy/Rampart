@@ -571,9 +571,9 @@ void UI::ShowVictoryScreen(int player){
 		victoryMessage = "Both players couldn't repair their walls: Draw!";
 	}else{
 		if(player == 0){
-			victoryMessage = "The damage to player 2's walls was to great: Player 1 Wins!";
+			victoryMessage = "The damage to player 2's walls was too great: Player 1 Wins!";
 		}else{
-			victoryMessage = "The damage to player 1's walls was to great: Player 2 Wins!";
+			victoryMessage = "The damage to player 1's walls was too great: Player 2 Wins!";
 		}
 	}
 
